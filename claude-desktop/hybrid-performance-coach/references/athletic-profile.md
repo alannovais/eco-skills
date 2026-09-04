@@ -1,3 +1,0 @@
-# Athletic Profile
-
-Adulto, 32 anos, 83kg. Histórico de poliesportista (Futebol, Lutas, Crossfit, Natação). Praticante ininterrupto desde 2017. Clínico: Pós-operatório de joelho esquerdo (2023 - retirada de flap ligamentar/meniscal após trauma no Squat Snatch). Dor atual: 0/10. Rotina Atual: Foco em Corrida e Musculação (Treino Híbrido).
