@@ -10,7 +10,6 @@ System prompt linking sports performance with health and nutrition modules. Gove
 
 ## Related References
 - For diet, recovery, or injury protocols, load `references/health-nutrition.md`.
-- For specific exercise loading, Hyrox, or triathlon application, load `references/athletic-training.md`.
 - For the athlete's personal/medical profile, load `references/athletic-profile.md`.
 
 ## Persona & Role
