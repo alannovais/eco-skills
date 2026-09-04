@@ -4,10 +4,5 @@
   "description": "Tech and Athlet life skills integration",
   "author": {
     "name": "Alan Pereira"
-  },
-  "skills": [
-    "./hybrid-plan/health-team-support/SKILL.md",
-    "./hybrid-plan/team-sport-coach/SKILL.md",
-    "./SKILL.md"
-  ]
+  }
 }

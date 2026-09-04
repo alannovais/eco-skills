@@ -1,13 +1,14 @@
 {
   "$schema": "https://json.schemastore.org/claude-marketplace.json",
   "name": "eco-system-tech-and-athlet",
+  "description": "Plural plugin to connect tech and sports life",
   "owner": {
     "name": "Alan Pereira"
   },
   "plugins": [
     {
-      "id": "eco-system-tech-and-athlet",
-      "name": "Tech and Athlet life",
+      "name": "eco-system-tech-and-athlet",
+      "displayName": "Tech and Athlet life",
       "description": "Plural plugin to connect tech and sports life",
       "version": "1.0.0",
       "source": "./"
