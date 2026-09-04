@@ -5,9 +5,14 @@
     {
       "id": "eco-system-tech-and-athlet",
       "name": "Tech and Athlet life",
-      "description": "Plural pluging to connect tech and sports life",
+      "description": "Plural plugin to connect tech and sports life",
       "version": "1.0.0",
-      "source": "https://github.com/alannovais/eco-skills.git"
+      "source": "https://github.com/alannovais/eco-skills.git",
+      "skills": [
+        "./hybrid-plan/health-team-support/SKILL.md",
+        "./hybrid-plan/team-sport-coach/SKILL.md",
+        "./SKILL.md"
+      ]
     }
   ]
 }
