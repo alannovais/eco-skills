@@ -11,7 +11,7 @@
       "displayName": "Tech and Athlet life",
       "description": "Plural plugin to connect tech and sports life",
       "version": "1.0.0",
-      "source": "./"
+      "source": "./claude-code-plugin"
     }
   ]
 }
