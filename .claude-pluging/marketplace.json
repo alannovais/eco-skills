@@ -1,0 +1,13 @@
+{
+  "name": "eco-system-tech-and-athlet",
+  "owner": "Alan Pereira",
+  "plugins": [
+    {
+      "id": "eco-system-tech-and-athlet",
+      "name": "Tech and Athlet life",
+      "description": "Plural pluging to connect tech and sports life",
+      "version": "1.0.0",
+      "source": "https://github.com/alannovais/eco-skills.git"
+    }
+  ]
+}
