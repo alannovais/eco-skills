@@ -1,7 +1,9 @@
 {
   "$schema": "https://json.schemastore.org/claude-marketplace.json",
   "name": "eco-system-tech-and-athlet",
-  "owner": "Alan Pereira",
+  "owner": {
+    "name": "Alan Pereira"
+  },
   "plugins": [
     {
       "id": "eco-system-tech-and-athlet",
